@@ -1,0 +1,42 @@
+﻿{
+  "basics": {
+    "name": "P Kalyan Chakravarthi",
+    "designation": "Software Trainee",
+    "email": "kalyanchakravarthi.p@apssdc.in",
+    "phone": "8464032835",
+    "website": "engineering.apssdc.in",
+    "goal":"To secure a challenging position where i can effectively contribute my skills as Software Professional, possessing competent Technical Skills.",
+    "carrierobjective": "To secure a challenging position where I can effectively contribute my skills as Software Professional, possessing competent Technical Skills.",
+    "experience":"Worked as Trainer cum Developer and conducted workshops in various technologies like linux,html,javascript,css,Mit,Scratch and now junior software trainee",
+    "skills":{
+      "Operatingsystem":"OperatingSystem:Windows XP,7,8,10, Linux.",
+      "lang":"Programming Languages:C, Java, PHP.",
+      "web":"WebDevelopment:HTML,CSS,Javascript."
+    },
+    "Education":{
+      "btech":"Completed Btech in Vasireddy Venkatadri Institute Of Technology, Nambur afflicated to Jawaharlal Nehru Technological University, Kakinada with an aggregrate of 65.82 and my year of passing is 2015",
+      "inter":"Board of Intermediate Education, AP. Nri Junior College, Guntur, Guntur District ,  2009-2011 and Secured:89% of marks",
+      "ssc":"Board of Secondary Education, 2009, St Mary's High School and Secured 82% of marks"
+    },
+    "Certifications":{
+      	"c1":"Achieved certificate of  Microsoft Technical Associate in Software Development Fundamentals(C#)", 
+        "c2": "Achieved certificate of Microsoft Technical Associate in Microsoft .NET Fundamentals(C#)",
+        "c3" :"Achieved certificate of Microsoft Technical Associate in Web Development Fundamentals(C#)"
+
+    },
+    "interests":
+    {
+     "in1":  "Playing cricket",
+     "in2": "Watching tv",
+     "in3":"Reading books"
+    },
+    "Declaration": 
+    {
+     "dec": "I hereby certify that all the above information is correct to the best of my knowledge and belief.  " 
+    }
+  
+  
+  
+
+    }
+  }
