@@ -24,6 +24,7 @@
     carrierobjective(data.basics.carrierobjective);
     exper(data.basics.experience);
     emailId(data.basics.email);
+    address(data.basics.location.Address);
     os(data.basics.skills.Operatingsystem);
     lang(data.basics.skills.lang);
     web(data.basics.skills.web);
@@ -62,6 +63,11 @@
 
       var em=document.getElementById("email");
       em.innerHTML=email;
+    }
+   function address (location) {
+
+      var l=document.getElementById("b");
+      l.innerHTML=location;
     }
 
     function phonenumber (phone) {
