@@ -118,7 +118,7 @@ div{
 
 @media screen and (min-width: 760px)
  {
-    .right {
+   .mainDiv, .right {
         background-color: lightgreen;
 
     }
