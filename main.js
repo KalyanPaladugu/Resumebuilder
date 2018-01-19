@@ -156,16 +156,5 @@
       g.innerHTML=goal;
     }
 
-  // function creatingSummary(summary){
-  //   // var section = document.createElement("section");
-  //   // section.classList.add("section", "main-summary");
-  //   // var summary_section = document.createElement("section")
-  //   var div = document.getElementById("f2");
-  //   div.innerHTML = summary;
-  //   // summary_section.appendChild(div);
-  //   // section.appendChild(summary_section);
-  //   // resumeDiv.appendChild(section);
-  // }
-
 
 })();
