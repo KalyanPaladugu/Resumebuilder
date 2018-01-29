@@ -151,24 +151,24 @@ display: flex;
 
    }
    .row{
-    width: 100%;
+   	width: 100%;
    }
    .left{
-    width: 100%;
-    display:flex;
-    font-family: Verdana;
-    
+   	width: 100%;
+   	display:flex;
+   	font-family: Verdana;
+   	
    }
    .sidemenu{
-    flex-wrap:wrap;
-    margin-top: 0%;
+   	flex-wrap:wrap;
+   	margin-top: 0%;
    }
    .bio img{
-    height: 30%;
+   	height: 30%;
    }
    .right{
-    width: 100%;
-    font-family: Verdana;
+   	width: 100%;
+   	font-family: Verdana;
    }
    
   }
@@ -187,7 +187,7 @@ body{
  float: right;
 
 }
-button{
+
 button{
 background-color: black;
 color: white;
@@ -198,4 +198,3 @@ button:hover, a:hover {
  opacity: 0.7;
 
 }
-
