@@ -1,4 +1,6 @@
-
+* {
+font-family: 'verdana';
+}
 .name,.name1
 {
 	text-align:center;
